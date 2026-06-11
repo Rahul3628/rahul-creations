@@ -37,8 +37,6 @@ I am currently exploring web development (HTML, CSS, JavaScript) and improving m
 ---
 
 ## 📫 Contact
-- Email Id: rahulramesh198136@gmail.com
-- LinkedIn: www.linkedin.com/in/rahul-ramesh-328rs
 - Phone No: +91 9677033639
   
 - Email: rahulramesh198136@gmail.com  
